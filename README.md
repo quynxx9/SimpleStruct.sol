@@ -1,0 +1,2 @@
+# SimpleStruct.sol
+SimpleStruct.sol
